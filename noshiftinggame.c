@@ -56,7 +56,6 @@ int main()
             c=check(ar);
             break;
             case 'e':
-            exit(0);
             case 'E':
             exit(0);
         }
