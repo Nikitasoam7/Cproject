@@ -36,9 +36,6 @@ int main()
             case 3:
             printf("Scissor");
             break;
-            case 'e':
-            case 'E':
-            exit(0);
         }
         int result;
         if(random==n)
